@@ -1,7 +1,8 @@
 
 # AWS Cloud Networking: Deploying EC2 Instances in Public and Private Subnets within a VPC
 
-## Overview
+## Project Overview
+![Subnets Diagram 3](https://github.com/user-attachments/assets/4a5297f3-32df-4c24-b58e-176b8b3b3f14)
 
 In this project, I set up an Amazon VPC with both public and private subnets, configured security settings such as Security Groups and Network ACLs, and launched EC2 instances in each subnet. Below is a step-by-step breakdown of what I accomplished.
 
