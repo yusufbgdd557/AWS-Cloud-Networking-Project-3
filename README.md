@@ -76,7 +76,7 @@ I chose my custom VPC for deploying the EC2 instances instead of using the defau
 This project demonstrates how to set up and configure a secure AWS environment with both public and private subnets. The public subnet allows internet access, while the private subnet is isolated. Access between the subnets is controlled via Security Groups, and additional network-level security is enforced using Network ACLs.
 
 For further details on the previous steps, such as creating the VPC, Subnets, Security Groups, and NACLs, check out my earlier repositories:
-- [AWS VPC Project](https://github.com/yusufbgdd557/AWS-VPC-Project)
-- [AWS VPC Project 2](https://github.com/yusufbgdd557/AWS-VPC-Project-2)
+- [AWS Cloud Networking 1](https://github.com/yusufbgdd557/AWS-VPC-Project)
+- [AWS Cloud Networking 2](https://github.com/yusufbgdd557/AWS-VPC-Project-2)
 
 ## Project Screenshots
